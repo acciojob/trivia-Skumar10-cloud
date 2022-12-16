@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.text{
+    background-color: aliceblue;
+    border-left: 8px solid green;
+    padding-left: 2px;
+}
